@@ -2,8 +2,6 @@
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=setvect&show_icons=true)
 
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=setvect&layout=compact&hide=XML,HTML,css,scss,PHP&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 대표 프로젝트
 - 현재 [복슬코인](https://github.com/setvect/BokslCoin/tree/develop) 개발중 💰📈
   - [업비트 API](https://docs.upbit.com) 사용 코인 자동 매매
