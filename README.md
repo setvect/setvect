@@ -3,7 +3,7 @@
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=setvect&show_icons=true)
 
 ### 대표 프로젝트
-- 현재 [복슬코인](https://github.com/setvect/BokslCoin/tree/develop) 개발중 💰📈
+- 현재 [복슬코인](https://github.com/setvect/BokslCoin) 개발중 💰📈
   - [업비트 API](https://docs.upbit.com) 사용 코인 자동 매매
   - Java, Spring Boot, Gradle
 - [복슬머니](https://github.com/setvect/BokslMoneyApp)
