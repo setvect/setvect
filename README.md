@@ -5,7 +5,7 @@
 ### 대표 프로젝트
 - 현재 [복슬코인](https://github.com/setvect/BokslCoin) 개발중 💰📈
   - [업비트 API](https://docs.upbit.com) 사용 코인 자동 매매
-  - Java, Spring Boot, Gradle
+  - Java, Spring Boot, Mockito, Gradle
 - [복슬머니](https://github.com/setvect/BokslMoneyApp)
   - 가계부 + 자산 관리
   - Electron, Vue.js, SQLite
