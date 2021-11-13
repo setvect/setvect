@@ -6,6 +6,9 @@
 - 현재 [복슬코인](https://github.com/setvect/BokslCoin) 개발중 💰📈
   - [업비트 API](https://docs.upbit.com) 사용 코인 자동 매매
   - Java, SpringBoot, Mockito, Gradle
+- [복슬매매](https://github.com/setvect/BokslTrade)
+  - 변동성 돌파전략을 이용한 주식 자동 매매
+  - Python
 - [복슬머니](https://github.com/setvect/BokslMoneyApp)
   - 가계부 + 자산 관리
   - Electron, Vue.js, SQLite
