@@ -4,7 +4,7 @@
 
 ### 대표 프로젝트
 - [복슬가계부](https://github.com/setvect/BokslAccountBook) 📖 
-  - 수집/지출, 주식 거래, 환전을 포함한 각종 자산 관리 도구
+  - 수입/지출, 주식 거래, 환전을 포함한 각종 자산 관리 도구
   - Electron, Typescript, React, SQLite
 - [복슬스톡](https://github.com/setvect/BokslStock2) 💰📈
   - [한국투자증권 API](https://apiportal.koreainvestment.com) 사용 주식 자동 매매
