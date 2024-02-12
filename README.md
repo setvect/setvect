@@ -18,9 +18,3 @@
 - [복슬홈피](https://github.com/setvect/BokslPortal)
   - 노트, 메모장, 로또 번호 추첨, 지식관리, 게시판, 관계 그래프, 먹을 걸 정해주마 등
   - Vue.js, SpringBoot, JPA, Gradle, Webpack
-- [복슬포토](https://github.com/setvect/BokslPortal)
-  - 사진 관리
-  - AngularJS, SpringBoot, Maven
-- [복슬뮤직](https://github.com/setvect/BokslMusic)
-  - MP3 재생
-  - DWR, Spring, Maven
