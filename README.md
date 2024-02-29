@@ -1,5 +1,3 @@
-### JungHo, Jang 👋
-
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=setvect&show_icons=true)
 
 ### 대표 프로젝트
@@ -9,7 +7,7 @@
 - [복슬스톡](https://github.com/setvect/BokslStock2) 💰📈
   - [한국투자증권 API](https://apiportal.koreainvestment.com) 사용 주식 자동 매매
   - Kotlin, SpringBoot, Gradle
-- [복슬코인](https://github.com/setvect/BokslCoin)
+- [복슬코인](https://github.com/setvect/BokslCoin) 🪙📈
   - [업비트 API](https://docs.upbit.com) 사용 코인 자동 매매
   - Java, SpringBoot, Mockito, Gradle
 - [복슬매매](https://github.com/setvect/BokslTrade)
